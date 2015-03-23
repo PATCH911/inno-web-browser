@@ -1,0 +1,1 @@
+InnoSetup library extending embedded web browser into InnoSetup wizard form
